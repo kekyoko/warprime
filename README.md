@@ -50,7 +50,7 @@ DLL также работает под именами `wtsapi32.dll` и `version
 SHA-256 `client-drop-in/0.14.0/dwmapi.dll`:
 
 ```
-a7615ab22e91da76c598fb449e93b410c38597dcfd498ee142a9f1dae9500069
+7f9e3ad1055b51245dcb900a208641eaf5009f4e492977b32fe307018827547c
 ```
 
 ## Структура репозитория
