@@ -1,12 +1,12 @@
 {
 	"version": "0.14.0",
-	"sha256": "fcb9ccef60831f23e409b49c274bb8f86d01ea990fb7748b888d58417b6420ed",
+	"sha256": "884f36d50d9f892b3f50aeac372661882196063483d03a0706777291e8432eb6",
 	"hotfix": "",
 	"hotfix_sha256": "",
 	"manifest": [
 		{
 			"version": "0.14.0",
-			"sha256": "fcb9ccef60831f23e409b49c274bb8f86d01ea990fb7748b888d58417b6420ed",
+			"sha256": "884f36d50d9f892b3f50aeac372661882196063483d03a0706777291e8432eb6",
 			"latest_hotfix": "",
 			"latest_hotfix_sha256": ""
 		}
